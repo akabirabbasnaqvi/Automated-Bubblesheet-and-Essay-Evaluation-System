@@ -1,0 +1,26 @@
+# Core web app
+eel
+Flask
+Flask-Cors
+python-dotenv
+
+# Authentication and security
+bcrypt
+
+# Data and imaging
+numpy
+pandas
+Pillow
+opencv-python
+pytesseract
+pyzbar
+openpyxl
+
+# ML / runtime helpers
+tensorflow
+
+# Optional email delivery support
+sendgrid
+
+# Optional OCR fallback used by barcode_detector_v2.py
+easyocr
