@@ -1,4 +1,4 @@
-# Final Software
+# 🎓 Automated Bubble Sheet & Essay Evaluation System
 
 Final Software is a desktop-style examination and assessment platform built with [Eel](https://github.com/python-eel/Eel) for the UI and Flask for the backend API. It combines student/admin workflows with OMR processing, barcode detection, essay evaluation, report generation, and password-reset support in a single application.
 
