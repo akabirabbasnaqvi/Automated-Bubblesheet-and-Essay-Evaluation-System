@@ -77,7 +77,8 @@ Notes:
 Create and activate a virtual environment, then install the dependencies:
 
 ```powershell
-cd E:\Final_Software
+git clone https://github.com/akabirabbasnaqvi/Automated-Bubblesheet-and-Essay-Evaluation-System.git
+   cd Automated-Bubblesheet-and-Essay-Evaluation-System
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -88,7 +89,6 @@ If you are using the existing environment in this workspace, activate that envir
 ## Running the app
 
 ```powershell
-cd E:\Final_Software
 python main.py
 ```
 
