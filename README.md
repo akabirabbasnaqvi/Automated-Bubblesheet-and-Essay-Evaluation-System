@@ -109,3 +109,14 @@ The app starts a local backend API first, then opens the desktop-style web UI on
 - Some helpers depend on native software such as Tesseract OCR or ZBar, depending on how you run barcode and OCR workflows.
 - The app is designed to run locally and should not be treated as a public multi-user deployment without additional hardening.
 
+## 🏫 About the Project
+
+This is the **Final Year Project (FYP)** for the Bachelor of Science in Computer Science at **Sukkur IBA University** (2022–2026).
+
+The system automates exam grading by combining **OMR sheet processing** (MCQs) and **AI-powered essay evaluation**, eliminating manual checking for large batches of students.
+
+### 📊 Key Results
+- **98.2% accuracy** on bubble sheet detection (best of 5 CNN architectures)
+- YOLO-based MCQ option detection
+- GPT-4.1 for rubric generation and essay scoring
+- Google Cloud Vision API for handwriting OCR
