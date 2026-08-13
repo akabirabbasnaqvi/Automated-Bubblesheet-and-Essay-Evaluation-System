@@ -120,3 +120,18 @@ The system automates exam grading by combining **OMR sheet processing** (MCQs) a
 - YOLO-based MCQ option detection
 - GPT-4.1 for rubric generation and essay scoring
 - Google Cloud Vision API for handwriting OCR
+
+## License
+
+This project is proprietary software.
+
+The source code is publicly available for academic review, portfolio
+demonstration, and evaluation purposes only.
+
+**All Rights Reserved.**
+
+No permission is granted to copy, modify, distribute, reproduce, or use this
+software commercially without prior written permission from the copyright
+holder.
+
+See the [LICENSE](LICENSE) file for the complete terms.
